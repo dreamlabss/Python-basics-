@@ -140,3 +140,6 @@ with open('file_7.json', 'w') as write_js:
     js_str = json.dumps(profit)
     print(f'Создан файл с расширением json со следующим содержимым: \n '
           f' {js_str}')
+
+
+#dsasdfsdf
